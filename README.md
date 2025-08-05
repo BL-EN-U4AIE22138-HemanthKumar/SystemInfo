@@ -3,7 +3,7 @@
 
 A simple Java-based application to fetch and display essential system information, including OS details, memory usage, processor specs, and more. Ideal for learners exploring Java's `System` and `Runtime` classes or for quick system diagnostics via a terminal-based Java tool.
 
-## 🚀 Features
+## Features
 
 - Fetches system architecture and OS version
 - Displays number of processors available
@@ -11,7 +11,7 @@ A simple Java-based application to fetch and display essential system informatio
 - Fetches Java runtime details
 - Lightweight and easy to run from terminal/IDE
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 SystemInfo/
@@ -20,12 +20,12 @@ SystemInfo/
 └── SystemInfo.java
 ```
 
-## 🛠️ Prerequisites
+## 🛠Prerequisites
 
 - Java JDK 8 or higher
 - Git (optional, for cloning)
 
-## 🧾 Usage
+## Usage
 
 ### 1. Clone the repository
 
@@ -46,7 +46,7 @@ javac SystemInfo.java
 java SystemInfo
 ```
 
-## 📌 Sample Output
+## Sample Output
 
 ```bash
 Operating System: Windows 10
@@ -60,11 +60,11 @@ Java Vendor: Oracle Corporation
 
 > *Note: Output will vary based on your system.*
 
-## 👨‍💻 Author
+## Author
 
 **Hemanth Kumar**  
 GitHub: [@BL-EN-U4AIE22138-HemanthKumar](https://github.com/BL-EN-U4AIE22138-HemanthKumar)
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
